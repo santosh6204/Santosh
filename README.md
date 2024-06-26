@@ -1,2 +1,3 @@
 # Santosh
-This is my first repository.
+This is my first git repository.
+santosh kumar mehta
